@@ -1,0 +1,2 @@
+print("kkkkkkkkkkkk")
+game:GetService("Players").LocalPlayer:Kick("Isso é só um teste!")
